@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+* {
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(8, 50, 0);
+}
+
+p, h1, h2, h3, h4, ul, li {
+    color: rgb(0, 165, 0);
+}
+
+a {
+    color: greenyellow;
+    text-decoration: underline;
+}
