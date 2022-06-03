@@ -7,10 +7,12 @@
 
 .main {
     background-color: rgb(8, 50, 0);
+    width: 90%;
 }
 
 p, h1, h2, h3, h4, ul, li {
     color: rgb(0, 165, 0);
+    text-align: center;
 }
 
 a {
